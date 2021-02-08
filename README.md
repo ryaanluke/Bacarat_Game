@@ -1,9 +1,5 @@
 # Bacarat_Game
 Full Bacarat Card game in SystemVerilog
-# Lab 1: Simple Datapath and Controller: Baccarat
-
-
-## Contents
 #### Rules
 
 - Two cards are dealt to both the player and the dealer (i.e., the banker) face up (first card to the player, second card to dealer, third card to the player, fourth card to the dealer).
